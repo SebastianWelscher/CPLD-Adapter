@@ -1,4 +1,6 @@
 # CPLD-Adapter
 
 
-![](images/CPLD_Adapter_top.png)
+![Top-View](images/CPLD_Adapter_top.png)
+
+![Bottom-View](images/CPLD_Adapter_bottom.png)
