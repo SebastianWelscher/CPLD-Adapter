@@ -33,6 +33,13 @@ Use this following steps: https://www.xilinx.com/support/answers/62380.html
 
 # third step: Your first Project
 
+| Part  | Port |
+|------ |------|
+| SW 1  | P30  |
+| SW 2  | P31  |
+| LED 1 | P2   |
+| LED 2 | P3   |
+
 
 ![](images/Sketch.png)
 
