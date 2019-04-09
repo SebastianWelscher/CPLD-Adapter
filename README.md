@@ -13,6 +13,21 @@ Get it at Aisler: https://aisler.net/p/JLAMCPYS
 # Example
 
 For this example we use the CPLD-Adapter board, the LED-Shield and the Switch-Shield.
+For programming, we use the ISE 14.7 WebPack Software and an USB-JTAG Programmer.
+You can buy it at https://eckstein-shop.de/Platform-Cable-USB or other distributors like Amazon etc.
+
+#First step: getting and installing the software
+
+There is a lower version of the software. You can find it on the DVD of the Platform-Cable set.
+
+For the last ISE 14.7 WebPack and for licensing create a Account at Xilinx.
+
+After installing you have to get a licence for the WebPack Edition.
+
+#Second step: get it run
+
+If you are using Win10, you have to 
+
 
 
 ![](images/Sketch.png)
