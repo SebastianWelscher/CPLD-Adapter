@@ -21,7 +21,8 @@ You can buy it at https://eckstein-shop.de/Platform-Cable-USB or other distribut
 There is a lower version of the software. You can find it on the DVD of the Platform-Cable set.
 
 For the last ISE 14.7 WebPack and for licensing create a Account at Xilinx and dowload the last standart version, not the Win10 Version.
-We have to customize some files later for working on Win10, because it´s not a supported Version for Win10. We do this later.
+You have to customize some files later for working on Win10, because it´s not a supported Version for Win10. 
+We do this later.
 
 After installing you have to get a licence for the WebPack Edition.
 
