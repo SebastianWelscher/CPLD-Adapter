@@ -13,4 +13,7 @@ Get it at Aisler: https://aisler.net/p/JLAMCPYS
 # Example
 
 For this example we use the CPLD-Adapter board, the LED-Shield and the Switch-Shield.
+![](images/Sketch.png) 
+
+
 
