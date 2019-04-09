@@ -43,6 +43,6 @@ Use this following steps: https://www.xilinx.com/support/answers/62380.html
 
 ![](images/Sketch.png)
 
-The IO-Ports of the Xilinx 9536XL are 5V tolerable so you can use 5V signals for input. 
+The IO-Ports of the Xilinx 9536XL are 5V tolerable so you can use 5V signals for input (from Arduino, etc). 
 The output voltage depends on the supply voltage and is about 3,3V. 
 
